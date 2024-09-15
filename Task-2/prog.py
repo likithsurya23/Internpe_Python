@@ -58,6 +58,6 @@ def play_game():
 
     print("It's a draw!")
 
-# Start the game
+
 if __name__ == "__main__":
     play_game()
